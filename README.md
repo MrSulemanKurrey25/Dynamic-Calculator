@@ -1,1 +1,1 @@
-# Project-calculator
+# Dynamic-calculator
