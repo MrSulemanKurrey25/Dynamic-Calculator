@@ -2,7 +2,7 @@
 A sleek, responsive, and real-time web calculator built with vanilla web technologies. This project demonstrates advanced DOM manipulation, event handling, and mathematical logic.
 
 # 🚀 Live Demo
-[Insert Link to your GitHub Pages or Vercel deployment here]
+[https://mrsulemankurrey25.github.io/Dynamic-Calculator/]
 
 # ✨ Features
 Real-time Calculation: Instant results as you type using optimized event listeners.
@@ -23,7 +23,9 @@ CSS: Custom properties (CSS variables) and Grid/Flexbox layout.
 JavaScript: Functional programming for math logic and UI updates.
 
 # 📸 Preview
+
 # 📂 Project Structure
+
 Plaintext
 ├── index.html      # Project structure
 ├── style.css       # Layout and styling
