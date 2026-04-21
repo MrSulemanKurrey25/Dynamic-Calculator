@@ -21,14 +21,3 @@ HTML: Semantic structure for accessibility.
 CSS: Custom properties (CSS variables) and Grid/Flexbox layout.
 
 JavaScript: Functional programming for math logic and UI updates.
-
-# 📸 Preview
-
-
-# 📂 Project Structure
-
-Plaintext
-├── index.html      # Project structure
-├── style.css       # Layout and styling
-├── script.js      # Calculation logic and UI interaction
-└── README.md       # Project documentation
